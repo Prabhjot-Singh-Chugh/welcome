@@ -1,0 +1,39 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1540317700647-ec69694d70d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60);
+	background-size: cover;
+}
+li{
+	display: inline-block;
+}
+h4{
+	text-align: center;
+	font-size: 150%;
+	font-family: cursive;
+	font-weight: bold;
+}
+.boxmodel{
+	font-size: 500%;
+	text-align: center;
+	color: blue;
+	border: 5px dashed yellow;
+	background-color: rgba(78,193,170,0.4);
+	font-family: cursive;
+	font-weight: bold;
+}
+form, p{
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 120%;
+	text-align: left;
+}
+.boxes{
+	border: 5px solid orange;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 5px;
+}
+.boxes{
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 100%;
+}
